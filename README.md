@@ -3,6 +3,8 @@ Leaflet Control Google Geocoder
 
 # What is it ?
 A simple geocoder that uses Google Maps to locate places.
+Fork leaflet-control-bing-geocoder from sa3m
+https://github.com/sa3m/leaflet-control-bing-geocoder
 
 # How to use it ?
 ```javascript
